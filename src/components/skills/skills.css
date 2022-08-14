@@ -1,0 +1,19 @@
+.skills_container{
+/* display: grid;
+grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+column-gap: 10rem;
+row-gap: 2rem; */
+display: flex;
+gap: 4rem;
+flex-wrap: wrap;
+align-items: center;
+justify-content: space-evenly;
+}
+
+.skills_container img{
+    width: 62px;
+    transition: 200ms all ease;
+}
+.skills_container img:hover{
+    transform: scale(1.4);
+}

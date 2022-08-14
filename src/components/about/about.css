@@ -1,0 +1,25 @@
+.about_container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    row-gap: 3.2rem;
+    column-gap: 3rem;
+}
+.about_card{
+    color: var(--pm-text-color);
+    text-align: center;
+    transition: 200ms all ease;
+
+}
+
+.about_card:hover{
+    transform: scale(1.2);
+    cursor: default;
+}
+
+.about_card:hover p{
+    color: var(--sd-color);
+}
+
+.about_card img{
+    width: 32px;
+}

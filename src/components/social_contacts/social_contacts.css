@@ -1,0 +1,10 @@
+#social{
+    height: 50vh;
+}
+
+.connects_container{
+    display: flex;
+    width: max-content;
+    margin: 0 auto;
+    gap: 4rem;
+}

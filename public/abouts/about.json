@@ -1,0 +1,50 @@
+[
+  {
+    "id": 6,
+    "created_at": "2022-08-14T01:21:11.000000Z",
+    "updated_at": "2022-08-14T01:26:19.000000Z",
+    "image": "abouts/cdN0DFRMmcgHHAhnzWFVroXEZFUlW3kOad3bTZGc.svg",
+    "tagline": "Creative",
+    "description": "I enjoy attempting to make new and inventive ideas a reality."
+  },
+  {
+    "id": 7,
+    "created_at": "2022-08-14T01:21:36.000000Z",
+    "updated_at": "2022-08-14T01:26:27.000000Z",
+    "image": "abouts/X3S1UAQAFFkQZU7iWPM0PSHpB27Hf2oNYtUAckSM.svg",
+    "tagline": "Curious",
+    "description": "I enjoy discovering, investigating, and learning something new."
+  },
+  {
+    "id": 8,
+    "created_at": "2022-08-14T01:21:56.000000Z",
+    "updated_at": "2022-08-14T01:26:02.000000Z",
+    "image": "abouts/bPjYjSPNV2vPQqIsqE7Jz4e9ORKHg349mShLSmP9.svg",
+    "tagline": "Pasionate",
+    "description": "I am passionate about my profession and interests, such as coding and astronomy."
+  },
+  {
+    "id": 9,
+    "created_at": "2022-08-14T01:22:29.000000Z",
+    "updated_at": "2022-08-14T01:26:12.000000Z",
+    "image": "abouts/NkkSQPESd9Jg2caMrkgQc5fw0LpOPRUi2mDEfckN.svg",
+    "tagline": "Team Work",
+    "description": "I believe in teamwork. I am more focused on accomplishing final goal and keeping perfect co-ordination."
+  },
+  {
+    "id": 10,
+    "created_at": "2022-08-14T01:22:54.000000Z",
+    "updated_at": "2022-08-14T01:25:34.000000Z",
+    "image": "abouts/qcwtrAXpmcY64iLk6yJU4xKSoesGpIRwye2LImHe.svg",
+    "tagline": "Compassionate",
+    "description": "Empathy lets me connect with people which helps in, handling situations, and getting things done"
+  },
+  {
+    "id": 11,
+    "created_at": "2022-08-14T01:23:14.000000Z",
+    "updated_at": "2022-08-14T01:25:50.000000Z",
+    "image": "abouts/djbBKWU1ZOymxKG6rgSs1Bd7MoX9HvbS5zNm53uJ.svg",
+    "tagline": "Discipline",
+    "description": "Despite tremendous odds, self-discipline is the thing which keeps me striving toward my goal."
+  }
+]

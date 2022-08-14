@@ -1,0 +1,137 @@
+[
+  {
+    "id": 5,
+    "title": "Dine-in By Sidyboy",
+    "url": "https://sidyboy-codes.github.io/First_repo_Dine_In/",
+    "slug": "asdasdasdasdasd",
+    "image": "projects/xu15BQeGwaBpZe8fOPaVu3qkBiM5yLo6oE2TX39H.png",
+    "content": "This was my first project on github. This website is just made up of HTML & CSS",
+    "type_id": 1,
+    "user_id": 1,
+    "created_at": "2022-08-14T07:22:37.000000Z",
+    "updated_at": "2022-08-14T07:32:13.000000Z",
+    "user": {
+      "id": 1,
+      "first": "Carlie",
+      "last": "Lebsack",
+      "email": "kunde.gabriel@example.com",
+      "email_verified_at": "2022-08-10T07:19:47.000000Z",
+      "created_at": "2022-08-10T07:19:48.000000Z",
+      "updated_at": "2022-08-10T07:19:48.000000Z"
+    },
+    "type": {
+      "id": 1,
+      "title": "Minima temporibus assumenda et id aliquid ex ut.",
+      "created_at": "2022-08-10T07:19:48.000000Z",
+      "updated_at": "2022-08-10T07:19:48.000000Z"
+    }
+  },
+  {
+    "id": 6,
+    "title": "Cityora",
+    "url": "https://sidyboy-codes.github.io/First_repo_Dine_In/",
+    "slug": "asdasdrwrwrewre",
+    "image": "projects/8cWXnObHuxCak5CKMsqEAqSaAyT8px6GtJFSLvYL.png",
+    "content": "This website use 3 different api. twitter api, News api, weather api.",
+    "type_id": 1,
+    "user_id": 1,
+    "created_at": "2022-08-14T07:29:08.000000Z",
+    "updated_at": "2022-08-14T07:32:22.000000Z",
+    "user": {
+      "id": 1,
+      "first": "Carlie",
+      "last": "Lebsack",
+      "email": "kunde.gabriel@example.com",
+      "email_verified_at": "2022-08-10T07:19:47.000000Z",
+      "created_at": "2022-08-10T07:19:48.000000Z",
+      "updated_at": "2022-08-10T07:19:48.000000Z"
+    },
+    "type": {
+      "id": 1,
+      "title": "Minima temporibus assumenda et id aliquid ex ut.",
+      "created_at": "2022-08-10T07:19:48.000000Z",
+      "updated_at": "2022-08-10T07:19:48.000000Z"
+    }
+  },
+  {
+    "id": 7,
+    "title": "Laravel CMS",
+    "url": "https://sidyboy-codes.github.io/First_repo_Dine_In/",
+    "slug": "sadkdshvjadshj",
+    "image": "projects/2Jir65TmQMLjS6n1EgV0pe5fxpW8kv88L2XufkJK.png",
+    "content": "Created Content management system using laravel",
+    "type_id": 1,
+    "user_id": 1,
+    "created_at": "2022-08-14T07:30:20.000000Z",
+    "updated_at": "2022-08-14T07:32:30.000000Z",
+    "user": {
+      "id": 1,
+      "first": "Carlie",
+      "last": "Lebsack",
+      "email": "kunde.gabriel@example.com",
+      "email_verified_at": "2022-08-10T07:19:47.000000Z",
+      "created_at": "2022-08-10T07:19:48.000000Z",
+      "updated_at": "2022-08-10T07:19:48.000000Z"
+    },
+    "type": {
+      "id": 1,
+      "title": "Minima temporibus assumenda et id aliquid ex ut.",
+      "created_at": "2022-08-10T07:19:48.000000Z",
+      "updated_at": "2022-08-10T07:19:48.000000Z"
+    }
+  },
+  {
+    "id": 8,
+    "title": "Random Trivia",
+    "url": "https://sidyboy-codes.github.io/First_repo_Dine_In/",
+    "slug": "bdkjjedhjasd",
+    "image": "projects/hSI7ptcsbgqIP0ZXBudvLW7LerF3FuOTtEhRBQJd.png",
+    "content": "A website which gives you random question to test your GK.",
+    "type_id": 1,
+    "user_id": 1,
+    "created_at": "2022-08-14T07:31:07.000000Z",
+    "updated_at": "2022-08-14T07:32:07.000000Z",
+    "user": {
+      "id": 1,
+      "first": "Carlie",
+      "last": "Lebsack",
+      "email": "kunde.gabriel@example.com",
+      "email_verified_at": "2022-08-10T07:19:47.000000Z",
+      "created_at": "2022-08-10T07:19:48.000000Z",
+      "updated_at": "2022-08-10T07:19:48.000000Z"
+    },
+    "type": {
+      "id": 1,
+      "title": "Minima temporibus assumenda et id aliquid ex ut.",
+      "created_at": "2022-08-10T07:19:48.000000Z",
+      "updated_at": "2022-08-10T07:19:48.000000Z"
+    }
+  },
+  {
+    "id": 9,
+    "title": "Top 10",
+    "url": "https://sidyboy-codes.github.io/First_repo_Dine_In/",
+    "slug": "iaudyiuasd",
+    "image": "projects/W75j60EykTS0LMri1MMK0OtIO5b6N2pCSpQ2nYHQ.png",
+    "content": "A website which shows top 10 movies and top 10 shows",
+    "type_id": 2,
+    "user_id": 1,
+    "created_at": "2022-08-14T07:31:42.000000Z",
+    "updated_at": "2022-08-14T07:31:58.000000Z",
+    "user": {
+      "id": 1,
+      "first": "Carlie",
+      "last": "Lebsack",
+      "email": "kunde.gabriel@example.com",
+      "email_verified_at": "2022-08-10T07:19:47.000000Z",
+      "created_at": "2022-08-10T07:19:48.000000Z",
+      "updated_at": "2022-08-10T07:19:48.000000Z"
+    },
+    "type": {
+      "id": 2,
+      "title": "Libero corporis veniam omnis.",
+      "created_at": "2022-08-10T07:19:48.000000Z",
+      "updated_at": "2022-08-10T07:19:48.000000Z"
+    }
+  }
+]

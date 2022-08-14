@@ -1,0 +1,22 @@
+.btn {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1.2rem;
+}
+
+.btn a {
+  padding: 1.2rem 2rem;
+  font-weight: 600;
+  color: var(--pm-text-color);
+  /* background: var(--pm-color); */
+  border: 2px solid var(--pm-text-color);
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  transition: 300ms all ease;
+}
+.btn a:hover {
+  color: var(--pm-color);
+  background: var(--pm-text-color);
+}

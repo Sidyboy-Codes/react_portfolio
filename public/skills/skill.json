@@ -1,0 +1,98 @@
+[
+  {
+    "id": 11,
+    "image": "skills/ekCMNSM2UABErN0PsvIlAjpFQUE4DRuEqzrxXU5i.svg",
+    "skill_name": "Laravel",
+    "skill_level": 35,
+    "created_at": "2022-08-14T01:44:59.000000Z",
+    "updated_at": "2022-08-14T05:29:21.000000Z"
+  },
+  {
+    "id": 15,
+    "image": "skills/EYUodl6cKUpAlWUJr2Fu0XEGAo6L4eWRSzIHDUFB.svg",
+    "skill_name": "MongoDB",
+    "skill_level": 35,
+    "created_at": "2022-08-14T01:46:43.000000Z",
+    "updated_at": "2022-08-14T06:40:52.000000Z"
+  },
+  {
+    "id": 17,
+    "image": "skills/Ie0mltVEp4rElkD8uvNc00VmsGwzgutMGLaOHDNy.svg",
+    "skill_name": "C#",
+    "skill_level": 39,
+    "created_at": "2022-08-14T01:47:19.000000Z",
+    "updated_at": "2022-08-14T05:31:07.000000Z"
+  },
+  {
+    "id": 10,
+    "image": "skills/C43HAgicJM62AE5XnB6NGMnvNCNoVlhcj3zmcnyS.svg",
+    "skill_name": "PHP",
+    "skill_level": 50,
+    "created_at": "2022-08-14T01:44:45.000000Z",
+    "updated_at": "2022-08-14T05:30:20.000000Z"
+  },
+  {
+    "id": 16,
+    "image": "skills/GAQ8R9pYBbLunUXfdd1XthEENuxguQr9VZzKdlnm.svg",
+    "skill_name": "ASP.NET",
+    "skill_level": 50,
+    "created_at": "2022-08-14T01:46:55.000000Z",
+    "updated_at": "2022-08-14T05:30:56.000000Z"
+  },
+  {
+    "id": 13,
+    "image": "skills/mTrJJ3Bo5JNhnZnHPXUNVtwl07KVIvh0fPplab58.svg",
+    "skill_name": "ExpressJS",
+    "skill_level": 55,
+    "created_at": "2022-08-14T01:45:23.000000Z",
+    "updated_at": "2022-08-14T05:33:58.000000Z"
+  },
+  {
+    "id": 9,
+    "image": "skills/wqeksJtv3rs3uSHHG0y836qErNPH0QhzrZgI7nEn.svg",
+    "skill_name": "JavaScript",
+    "skill_level": 61,
+    "created_at": "2022-08-14T01:44:16.000000Z",
+    "updated_at": "2022-08-14T05:29:31.000000Z"
+  },
+  {
+    "id": 12,
+    "image": "skills/MRWQCJ8LltFNv9vlXAkjyqHqWp6OjVZWNo3b2PUp.svg",
+    "skill_name": "NodeJS",
+    "skill_level": 61,
+    "created_at": "2022-08-14T01:45:15.000000Z",
+    "updated_at": "2022-08-14T05:30:05.000000Z"
+  },
+  {
+    "id": 14,
+    "image": "skills/7SPi8VkIKnL2tNKxDaZNcXn7K8GCh81NgO9hk1LD.svg",
+    "skill_name": "React",
+    "skill_level": 61,
+    "created_at": "2022-08-14T01:46:07.000000Z",
+    "updated_at": "2022-08-14T05:30:31.000000Z"
+  },
+  {
+    "id": 18,
+    "image": "skills/Sq0J7YFaD1E4b2BCWNhOzMJIlzuKCvApTkf8uLac.svg",
+    "skill_name": "MySQL",
+    "skill_level": 61,
+    "created_at": "2022-08-14T01:47:31.000000Z",
+    "updated_at": "2022-08-14T05:31:18.000000Z"
+  },
+  {
+    "id": 7,
+    "image": "skills/01VU5vS4FZehoODUrCuAnCGH4WiVenREBdpnofq9.svg",
+    "skill_name": "HTML",
+    "skill_level": 80,
+    "created_at": "2022-08-14T01:43:51.000000Z",
+    "updated_at": "2022-08-14T06:40:41.000000Z"
+  },
+  {
+    "id": 8,
+    "image": "skills/iTx6FXxQJmVFHPqY623UAo5wJBRAzioZmLUQoqD4.svg",
+    "skill_name": "CSS",
+    "skill_level": 81,
+    "created_at": "2022-08-14T01:43:58.000000Z",
+    "updated_at": "2022-08-14T06:40:23.000000Z"
+  }
+]

@@ -1,0 +1,25 @@
+.header_container{
+    padding-top: 8rem;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+.header_container h1{
+    color: var(--pm-text-color);
+    font-size: 3rem;
+}
+.header_container h3{
+    color: #c81b39;
+    font-size: 2rem;
+}
+
+.header_container h4{
+    color: #007bab;
+    font-size: 1.2rem;
+    /* font-weight: 300; */
+}
+.header_container img{
+    width: 50%;
+}
