@@ -26,3 +26,11 @@ nav a{
 nav a:hover, .active{
     background-color: #c81b39;    
 }
+
+/* media queries */
+@media screen and (max-width:1020px) {
+    nav{
+        gap:0.4rem
+    }
+    
+}

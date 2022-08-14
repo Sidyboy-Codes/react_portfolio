@@ -23,3 +23,28 @@
 .header_container img{
     width: 50%;
 }
+
+/* media queries */
+@media screen and (max-width:1020px){
+    .header_container{
+        text-align: center;
+    }
+    .hero_info{
+        width: 100%;
+    }
+    .header_container h1{
+        font-size: 2rem;
+    }
+    .header_container h3{
+
+        font-size: 1.2rem;
+    }
+    
+    .header_container h4{
+        font-size: 1rem;
+        /* font-weight: 300; */
+    }
+    .header_container img{
+        display: none;
+    }
+}
